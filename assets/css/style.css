@@ -435,6 +435,7 @@ section{
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed;
+    margin: 5rem 0rem;
 }
 .contador .contador-box{
  display: flex;
