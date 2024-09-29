@@ -2048,7 +2048,7 @@ section {
 .slide-destaque .slide .col-3{
     display: flex;
     transform: translate(-6.5rem, 0);
-    width: 98vw;
+    width: 95vw;
 }
 }
 @media (max-width:880px) {
